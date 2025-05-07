@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yago_ribeiro00/)
 
 ![Yago1010 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yago1010&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yago1010)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia e durante a minha carreira
 <div style="display: inline_block"><br/>
