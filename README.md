@@ -44,7 +44,7 @@
             
 </div><br>
 
-Apaixonado por tecnologia, busco crescer cada vez mais e mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, busco crescer continuamente e transformar a vida das pessoas por meio da programação.
 
 ## Contato 
 
